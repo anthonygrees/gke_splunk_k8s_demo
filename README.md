@@ -234,6 +234,7 @@ terraform destroy
 
   
 ### Errors
+If you get issues with your gcloud credentials, try this....
 ```bash
 source /usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.zsh.inc
 ```
